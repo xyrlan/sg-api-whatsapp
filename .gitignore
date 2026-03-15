@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Docker volumes
+pgdata/
+redis_data/
+evolution_instances/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
